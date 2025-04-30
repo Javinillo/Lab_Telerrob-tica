@@ -1,0 +1,7 @@
+sudo ln -s /usr/bin/python3 /usr/bin/python
+
+sudo apt install python3-opencv
+
+sudo apt install ros-noetic-cv-bridge
+
+sudo apt install ros-noetic-tf2-msgs
